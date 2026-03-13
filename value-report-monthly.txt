@@ -1,0 +1,119 @@
+PLACY — MONTHLY REPORT
+Alex K Realty (Cyprus)
+February 2026
+
+---
+
+Hi Alex,
+
+Here is your Placy monthly summary for February 2026.
+
+Qualified lead = Placy collected key details and confirmed the client's intent (buy/rent/sell), so your team can follow up with context.
+
+
+MONTHLY SNAPSHOT (vs January 2026)
+──────────────────────────────────
+Clients contacted:              847   (+18.2%)
+Conversations started:          978   (+9.7%)
+Qualified leads:                812   (+6.4%)
+Conversion (Started→Qualified): 83.0% (-1.2%)
+Leads outside business hours:   58%
+Avg. first response time:       18 sec (-12%)
+
+→ Open Dashboard: https://app.placy.ai/dashboard?range=2026-02-01_to_2026-02-28
+
+
+YOUR ROI THIS MONTH
+────────────────────
+Leads handled by Placy:         812
+  (That your team would have handled manually)
+
+Estimated hours saved:          68 hrs
+  (Based on ~5 min per lead qualification)
+
+Estimated cost savings:         €1,360
+  (At €20/hr average staff cost)
+
+Leads captured after hours:     471
+  (Would have been missed without Placy)
+
+Bottom line: Placy saved your team approximately 68 hours and €1,360 this month. Without Placy, 471 after-hours leads would have waited until the next business day — or been lost to competitors.
+
+
+SOURCE PERFORMANCE (full month)
+───────────────────────────────
+  bazaraki.com         — 487 started | Qualified: 398 (81.7%) +3.1% vs Jan
+  buysellcyprus.com    — 214 started | Qualified: 189 (88.3%) +5.8% vs Jan ✅ Top performer
+  Instagram / Meta Ads — 142 started | Qualified: 84 (59.2%)  -2.4% vs Jan ⚠️ Review needed
+
+So what: buysellcyprus.com is your highest-quality source and growing. Meta Ads conversion declined for the second month — consider reviewing targeting or ad creatives.
+
+→ View all sources: https://app.placy.ai/dashboard?range=2026-02-01_to_2026-02-28&groupBy=source
+
+
+CHANNEL MIX
+───────────
+  WhatsApp:            665 (68%)
+  Website form / chat: 225 (23%)
+  Email:                88 (9%)
+
+Trend: WhatsApp share is stable at ~68%. Website forms grew slightly vs January (+2pp). Email remains a minor channel.
+
+→ View channels: https://app.placy.ai/dashboard?range=2026-02-01_to_2026-02-28&groupBy=channel
+
+
+TOP CLIENT QUESTIONS THIS MONTH
+───────────────────────────────
+  "Is it still available?"                          — 178
+  "What is the exact location / can you share a pin?" — 112
+  "What is included in the price?"                  — 89
+  "Can I schedule a viewing this week?"             — 74
+  "Can I move in immediately?"                      — 61
+
+Monthly insight: "Availability" remains #1 for the third consecutive month. Consider automating availability checks with property owners to reduce this friction.
+
+→ View question insights: https://app.placy.ai/dashboard?range=2026-02-01_to_2026-02-28#top-questions
+
+
+DEMAND & TRENDING LISTINGS — February market pulse
+───────────────────────────────────────────────────
+
+Residential — Sale (Top demand)
+  #321190 — 2BR Apartment, €265,000 — 48 leads (Limassol, Mesa Geitonia)
+  #490903 — 3BR House, €410,000 — 41 leads (Paphos, Old Town)
+  #893092 — 2BR Apartment, €295,000 — 29 leads (Limassol, Agios Dimitrios)
+
+  Demand signal:
+    • Top budget range: €250,000+
+    • Top area/city: Limassol (Mesa Geitonia / Germasogeia)
+    • Urgency: Immediate (≈45% of requests)
+    • vs Jan: demand in Limassol up 12%, Paphos stable
+
+Residential — Rent (Top demand)
+  #348993 — 3BR House, €2,700/mo — 34 leads (Limassol, Germasogeia)
+  #321190 — 2BR Apartment, €1,950/mo — 30 leads (Limassol, Mesa Geitonia)
+  #490903 — 2BR House, €1,600/mo — 22 leads (Paphos, Old Town)
+
+  Demand signal:
+    • Top budget range: €1,800–€2,500/mo
+    • Top area/city: Limassol (Germasogeia / Mesa Geitonia)
+    • vs Jan: rental demand up 8%, budget range stable
+
+Commercial (Top demand)
+  #009984 — Office, €3,200/mo — 18 leads (Limassol, Neapolis)
+  #771120 — Shop, €2,100/mo — 14 leads (Limassol, City Center)
+  #552901 — Warehouse, €4,800/mo — 11 leads (Limassol, Industrial Area)
+
+  Demand signal:
+    • Top budget range: €2,500–€5,000/mo
+    • Top city: Limassol
+    • vs Jan: commercial demand up 15%
+
+→ Open Trending Listings: https://app.placy.ai/trending?range=2026-02-01_to_2026-02-28
+→ Explore demand insights: https://app.placy.ai/dashboard?range=2026-02-01_to_2026-02-28#client-analytics
+
+
+───
+Notification settings: https://app.placy.ai/settings/notifications
+Qualified lead = Placy collected key details and confirmed the client's intent (buy/rent/sell).
+© 2026 Placy. All rights reserved.

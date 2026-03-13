@@ -1,0 +1,52 @@
+PLACY — PRODUCT UPDATE
+What's new in March 2026
+
+---
+
+Hi there,
+
+Here's what we've shipped this month to help you capture more leads and close more deals.
+
+
+NEW FEATURES
+────────────
+
+🔊 Improved Voice Assistant
+More natural conversations, better handling of complex questions, and improved Greek language support. Response quality is up 35%.
+→ What this means for you: Fewer missed nuances in calls, better caller experience, higher qualification rate.
+
+⚡ Faster CRM Sync
+Lead data now syncs to your CRM within 30 seconds (previously up to 5 minutes). We also added automatic retry for failed syncs.
+→ What this means for you: Your agents see new leads in the CRM faster and no leads fall through the cracks.
+
+📈 Source Performance Dashboard
+See which lead sources (Bazaraki, Meta Ads, website) deliver the highest-quality leads. Filter by date range, compare weeks.
+→ What this means for you: Know exactly where to invest your ad budget for the best ROI.
+
+
+IMPROVEMENTS & FIXES
+────────────────────
+
+[IMPROVED] WhatsApp assistant now handles Greekglish more accurately
+[IMPROVED] Dashboard loading speed is 2x faster
+[FIXED]    Resolved issue where some email leads were not parsed correctly
+[FIXED]    Qobrix integration: fixed duplicate lead entries in some edge cases
+
+
+COMING NEXT
+───────────
+
+☐ Weekly value reports delivered to your inbox
+☐ Smart lead scoring — prioritize the hottest leads automatically
+☐ Re-engagement campaigns — reactivate your old lead database
+
+Have a feature request? Reply to this email — we read every response.
+
+
+→ Open your Dashboard: https://app.placy.ai/dashboard
+
+
+───
+Notification settings: https://app.placy.ai/settings/notifications
+You received this email because you are a Placy customer.
+© 2026 Placy. All rights reserved.
